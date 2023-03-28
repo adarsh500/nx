@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@adarsh50/react": ["packages/react/src/index.ts"]
+      "@adarsh50/react-lib": ["packages/react-lib/src/index.ts"],
+      "anotherlib": ["packages/anotherlib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
