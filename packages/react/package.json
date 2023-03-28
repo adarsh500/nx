@@ -1,4 +1,5 @@
 {
   "name": "@adarsh50/react",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "main": "dist/packages/react/index.js"
 }

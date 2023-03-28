@@ -12,6 +12,7 @@
     "@nrwl/linter": "15.8.9",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/react": "^15.8.9",
+    "@nrwl/rollup": "^15.8.9",
     "@rollup/plugin-url": "^7.0.0",
     "@svgr/rollup": "^6.1.2",
     "@testing-library/react": "14.0.0",
